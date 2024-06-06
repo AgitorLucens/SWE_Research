@@ -1,0 +1,1 @@
+SELECT name,price,descr FROM record WHERE 1 = 1

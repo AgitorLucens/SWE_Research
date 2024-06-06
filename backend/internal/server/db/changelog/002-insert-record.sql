@@ -1,0 +1,1 @@
+INSERT INTO record (record_name, img, price, descr, quant, topic, created) VALUES
